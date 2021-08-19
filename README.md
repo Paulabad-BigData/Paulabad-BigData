@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate Data Science.
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about to be a Data Scientist
-- 📫 How to reach me: You can reach me on Twitter by sending me a DM :envelope: or on Linkedin my user name :speech_balloon: is Paula Abad.
+- 📫 How to reach me: You can reach me on [Twitter][twitter] by sending me a DM :bird: or Send me an [e-mail][e-mail] :love_letter: or on Linkedin my user name :crown: is Paula Abad.
 - 😄 Pronouns: 'she/her'
 - ⚡ Fun fact: I love to travel :airplane: and :pizza:
 
@@ -28,10 +28,18 @@ Here are some ideas to get you started:
 
 ---
 
-# :orange_book: Blog posts
+### :orange_book: Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### :headphones: Spotify Playing :microphone:
+
+[![Spotify](https://novatorem-12xrds2fm-spoty.vercel.app)]()
 
 
 <!-- Links -->
 [website]: https://paulabad-bigdata.github.io/
+[e-mail]: paulabad76@gmail.com
+[twitter]: https://twitter.com/libeluladoradas
