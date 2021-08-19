@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### :headphones: Spotify Playing :microphone:
 
-[![Spotify](https://novatorem-pdcl0be90-spoty.vercel.app/api/spotify)]()
+[![Spotify](https://novatorem-pdcl0be90-spoty.vercel.app/api/spotify)](https://open.spotify.com/user/31chnmcc6yrr4pp6doagc7sytkhm)
 
 
 <!-- Links -->
