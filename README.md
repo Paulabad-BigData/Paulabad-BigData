@@ -60,7 +60,29 @@ Here are some ideas to get you started:
 <img aling="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/>&nbsp;
 <img aling="left" alt="vscode" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png"/>
 
+---
 
+### :loudspeaker: Speaker:
+
+[![Introducción a Programación Python: Estructuras de Control](https://img.youtube.com/vi/hT160XTQpG0/0.jpg)](https://www.youtube.com/watch?v=hT160XTQpG0)
+
+[![Power BI: Reto HBO: Creando tu primer dashboard desde cero](https://img.youtube.com/vi/NI4RHohtvwM/0.jpg)](https://www.youtube.com/watch?v=NI4RHohtvwM)
+
+--- 
+
+###  Community Collaboration: content creation
+
+* [Tipos de Algoritmos de Machine Learning](https://www.linkedin.com/posts/data-engineering-latam_los-algoritmos-de-machine-learning-activity-7003427241208463360-gd-S?utm_source=share&utm_medium=member_desktop)
+
+* [Juega Snake Game y práctica Python con la librería Pygame :video_game:](https://www.linkedin.com/posts/data-engineering-latam_juega-snake-game-y-pr%C3%A1ctica-python-con-la-activity-7004195435082874880-Zz0p?utm_source=share&utm_medium=member_desktop)
+
+* [Python Quiz time](https://www.linkedin.com/posts/data-engineering-latam_juega-snake-game-y-pr%C3%A1ctica-python-con-la-activity-7004195435082874880-Zz0p?utm_source=share&utm_medium=member_desktop)
+
+* [3 Libros para iniciar en Data Science](https://www.linkedin.com/posts/data-engineering-latam_libros-data-science-activity-6964929181067399168-OnS7?utm_source=share&utm_medium=member_desktop)
+
+* [¿𝗬𝗮 𝗰𝗼𝗻𝗼𝗰𝗲𝘀 𝗹𝗼𝘀 𝘁𝗶𝗽𝗼𝘀 𝗱𝗲 𝗔𝗻á𝗹𝗶𝘀𝗶𝘀 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀?](https://www.linkedin.com/posts/data-engineering-latam_preguntas-comerciales-para-el-an%C3%A1lisis-de-activity-6948686082339151872-BZ0e?utm_source=share&utm_medium=member_desktop)
+
+* [𝙏𝙞𝙥𝙨 𝙙𝙚 𝙪𝙣 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙩𝙞𝙨𝙩 𝙥𝙖𝙧𝙖 𝙚𝙡 𝙍𝙚𝙩𝙤 𝙃𝘽𝙊](https://www.linkedin.com/posts/data-engineering-latam_tips-data-scientist-reto-hbo-activity-6948408790954168321-fVbZ?utm_source=share&utm_medium=member_desktop)
 
 ---
 
