@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 <img aling="left" alt="gitlab" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/gitlab.png"/>&nbsp;
 <img aling="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>&nbsp;
 <img aling="left" alt="angular" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/angular.png"/>&nbsp;
-<img aling="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>&nbsp;
 <img aling="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>&nbsp;
+<img aling="left" alt="mariadb" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/mariadb.png"/>&nbsp;
+<img aling="left" alt="aws" width="26px" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/aws.svg"/>&nbsp;
+<img aling="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>&nbsp;
 <img aling="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/>
 
 
