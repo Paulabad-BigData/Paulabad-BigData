@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ### :loudspeaker: Speaker:
 
-[![Introducción a Programación Python: Estructuras de Control](https://img.youtube.com/vi/hT160XTQpG0/0.jpg width="50%")](https://www.youtube.com/watch?v=hT160XTQpG0)
+<iframe width="50%" src="https://www.youtube.com/embed/hT160XTQpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [![Power BI: Reto HBO: Creando tu primer dashboard desde cero](https://img.youtube.com/vi/NI4RHohtvwM/0.jpg width="50%")](https://www.youtube.com/watch?v=NI4RHohtvwM)
 
