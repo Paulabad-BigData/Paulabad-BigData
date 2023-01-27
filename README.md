@@ -3,7 +3,12 @@
 
 ### :purple_heart: Java Developer :purple_heart:
 
-https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+<a href="https://www.linkedin.com/in/paulabadt/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 [<img src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif">][website]
 
