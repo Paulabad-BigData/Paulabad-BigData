@@ -1,8 +1,6 @@
 ### Hi [Paula Abad][website] 👋
 
 
-### :purple_heart: Java Developer :purple_heart:
-
 <a href="https://www.linkedin.com/in/paulabadt/">
   <img
     alt="Linkedin"
@@ -11,9 +9,12 @@
 </a>
 
 
+
 [<img src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif">][website]
 
 
+
+### :purple_heart: Java Developer :purple_heart:
 
 Here are some ideas to get you started:
 
