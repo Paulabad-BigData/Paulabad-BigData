@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/libeluladoradas?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/libeluladoradas)
 
-[<img src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif">][website]
+[<img src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif">][github]
 
 
 ### :purple_heart: Backend Developer :purple_heart:
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 
 <!-- Links -->
-[website]: https://paulabad-bigdata.github.io/
+[website]:  www.linkedin.com/in/paulabadt
 [e-mail]: paulabad76@gmail.com
 [twitter]: https://twitter.com/libeluladoradas
+[github]: https://github.com/Paulabad-BigData?tab=repositories
