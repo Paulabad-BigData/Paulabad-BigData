@@ -5,7 +5,7 @@
 [<img src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif">][github]
 
 
-### :purple_heart: Backend Developer :purple_heart:
+### :purple_heart: Java Developer :purple_heart:
 
 
 Here are some ideas to get you started:
