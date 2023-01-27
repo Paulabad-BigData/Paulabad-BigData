@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <!-- Links -->
-[website]:  www.linkedin.com/in/paulabadt
+[website]: https://www.linkedin.com/in/paulabadt/
 [e-mail]: paulabad76@gmail.com
 [twitter]: https://twitter.com/libeluladoradas
-[github]: https://github.com/Paulabad-BigData?tab=repositories
+[github]: https://github.com/Paulabad-BigData
