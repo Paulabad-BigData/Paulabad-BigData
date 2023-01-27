@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 --- 
 
-###  Community Collaboration: content creation
+### :microphone: Community Collaboration: content creation
 
 * [Tipos de Algoritmos de Machine Learning](https://www.linkedin.com/posts/data-engineering-latam_los-algoritmos-de-machine-learning-activity-7003427241208463360-gd-S?utm_source=share&utm_medium=member_desktop)
 
@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 * [3 Libros para iniciar en Data Science](https://www.linkedin.com/posts/data-engineering-latam_libros-data-science-activity-6964929181067399168-OnS7?utm_source=share&utm_medium=member_desktop)
 
-* [¿𝗬𝗮 𝗰𝗼𝗻𝗼𝗰𝗲𝘀 𝗹𝗼𝘀 𝘁𝗶𝗽𝗼𝘀 𝗱𝗲 𝗔𝗻á𝗹𝗶𝘀𝗶𝘀 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀?](https://www.linkedin.com/posts/data-engineering-latam_preguntas-comerciales-para-el-an%C3%A1lisis-de-activity-6948686082339151872-BZ0e?utm_source=share&utm_medium=member_desktop)
+* [¿Ya conoces los tipos de Análisis de Datos?](https://www.linkedin.com/posts/data-engineering-latam_preguntas-comerciales-para-el-an%C3%A1lisis-de-activity-6948686082339151872-BZ0e?utm_source=share&utm_medium=member_desktop)
 
-* [𝙏𝙞𝙥𝙨 𝙙𝙚 𝙪𝙣 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙩𝙞𝙨𝙩 𝙥𝙖𝙧𝙖 𝙚𝙡 𝙍𝙚𝙩𝙤 𝙃𝘽𝙊](https://www.linkedin.com/posts/data-engineering-latam_tips-data-scientist-reto-hbo-activity-6948408790954168321-fVbZ?utm_source=share&utm_medium=member_desktop)
+* [Tips de un Data Scientist para el Reto HBO](https://www.linkedin.com/posts/data-engineering-latam_tips-data-scientist-reto-hbo-activity-6948408790954168321-fVbZ?utm_source=share&utm_medium=member_desktop)
 
 ---
 
