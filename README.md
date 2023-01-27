@@ -1,11 +1,12 @@
 ### Hi [Paula Abad][website] 👋
 
+
+### :purple_heart: Java Developer :purple_heart:
+
 <a href="https://www.linkedin.com/in/paulabadt/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 
 [<img src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif">][website]
 
-
-### :purple_heart: Java Developer :purple_heart:
 
 
 Here are some ideas to get you started:
