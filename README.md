@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <img aling="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"/>&nbsp;
 <img aling="left" alt="gitlab" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/gitlab.png"/>&nbsp;
 <img aling="left" alt="spring" width="26px" src="https://github.com/spring-projects/spring-framework/blob/main/framework-docs/src/docs/spring-framework.png"/>&nbsp;
-<img aling="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>&nbsp;
 <img aling="left" alt="angular" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/angular.png"/>&nbsp;
+<img aling="left" alt="net" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/dotnet.png"/>&nbsp;
+<img aling="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>&nbsp;
 <img aling="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>&nbsp;
 <img aling="left" alt="postgresql" width="26px" src="https://github.com/dereknguyen269/dereknguyen269/blob/master/images/postgresql.png"/>&nbsp;
 <img aling="left" alt="aws" width="26px" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/aws.svg"/>&nbsp;
