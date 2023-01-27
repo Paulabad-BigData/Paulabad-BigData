@@ -3,7 +3,7 @@
 
 ### :purple_heart: Java Developer :purple_heart:
 
-[https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white][website]
+https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
 
 [<img src="https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif">][website]
 
